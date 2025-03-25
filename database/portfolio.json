@@ -22,42 +22,12 @@
     "description": " \nMy proficiency lies in HTML, CSS, JavaScript, and React.js, and I'm committed to continuously updating my skills to stay ahead of the curve.\n"
   },
   "skillsInfo": {
-    "displayName": "Specialization",
+    "displayName": "Specializations",
     "skills": [
       {
         "id": "1740561022085",
-        "name": "Artificial Intelligence",
+        "name": "Web Development",
         "rating": 8
-      },
-      {
-        "id": "1740561032423",
-        "name": "Data Science",
-        "rating": 8
-      },
-      {
-        "id": "1740561039835",
-        "name": "TensorFlow",
-        "rating": 7
-      },
-      {
-        "id": "1740561047940",
-        "name": "Neural Networks",
-        "rating": 8.5
-      },
-      {
-        "id": "1740561053720",
-        "name": "Cybersecurity",
-        "rating": 8
-      },
-      {
-        "id": "1740561061830",
-        "name": "Cloud Computing",
-        "rating": 7
-      },
-      {
-        "id": "1740561070225",
-        "name": "Research Methodologies",
-        "rating": 9
       },
       {
         "id": "1740561079785",
