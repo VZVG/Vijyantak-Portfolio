@@ -86,30 +86,44 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "2022 – 2025",
-        "projectName": "B. Tech",
+        "timeline": "2024",
+        "projectName": "TECHNOLOGY BUSINESS INCUBATOR – GRAPHIC ERA (DEEMED TO BE UNIVERSITY) ",
         "headline1": "",
         "headline2": "",
-        "designation": "Student",
+        "designation": "[INTERN – FULL STACK DEVELOPER]  ",
         "link": {
           "linkText": "Link",
           "linkUrl": ""
         },
-        "skills": "Artificial Intelligence, Machine Learning, Operating System, C, C++, Java, Data Structures, Design & Analysis of Algorithms, Theory of Computation, Discrete Mathematics",
-        "companyName": "Graphic Era Hill University, Haldwani Campus",
+        "skills": "",
+        "companyName": "",
         "images": []
       },
       {
-        "timeline": "2019 – 2022",
-        "projectName": "S.S.S.S.S. Ram Singh Bisht Government Polytechnic Dwarahat, Almora",
+        "timeline": "2021",
+        "projectName": "NIELIT, HARIDWAR",
         "headline1": "",
         "headline2": "",
-        "designation": "Student",
+        "designation": "[INDUSTRIAL TRAINING – Web Designing] ",
         "link": {
           "linkText": "Link",
           "linkUrl": ""
         },
-        "skills": "Python, Data Warehousing, C#, C++, Android Application Development",
+        "skills": "",
+        "companyName": "",
+        "images": []
+      },
+      {
+        "timeline": "2021",
+        "projectName": "DISTRICT MAGISTRATE’S OFFICE, NAINITAL",
+        "headline1": "",
+        "headline2": "",
+        "designation": "[INTERN – E-DISTRICT PORTAL]  ",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "",
         "companyName": "",
         "images": []
       }
@@ -119,7 +133,7 @@
     "displayName": "Qualifications",
     "qualifications": [
       {
-        "timeline": "2019 - 2022",
+        "timeline": "2022 - 2025",
         "courseName": "Bachelor of Technology in Computer Science & Engineering",
         "instituteName": "Graphic Era Hill University",
         "specializedIn": "Full Stack Web Development",
