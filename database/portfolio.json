@@ -86,45 +86,31 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "2022 – Present",
-        "projectName": "AI-Powered Personalized Learning for Rural India",
-        "headline1": "Developed AI-powered educational tools tailored for regional Indian languages.",
-        "headline2": "Supervised Ph.D. students on AI-driven innovations for education.",
-        "designation": "Professor of Computer Science",
+        "timeline": "2022 – 2025",
+        "projectName": "B. Tech",
+        "headline1": "",
+        "headline2": "",
+        "designation": "Student",
         "link": {
           "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
+          "linkUrl": ""
         },
-        "skills": "Artificial Intelligence, Machine Learning, Neural Networks, Research Methodologies, Data Science",
-        "companyName": "Indian Institute of Technology (IIT) Delhi",
+        "skills": "Artificial Intelligence, Machine Learning, Operating System, C, C++, Java, Data Structures, Design & Analysis of Algorithms, Theory of Computation, Discrete Mathematics",
+        "companyName": "Graphic Era Hill University, Haldwani Campus",
         "images": []
       },
       {
         "timeline": "2019 – 2022",
-        "projectName": "Automated Essay Grading in Indian Languages",
-        "headline1": "Led a research team developing an AI-based essay grading system using NLP for Hindi, Tamil, and Bengali.",
-        "headline2": "Developed new course curricula for AI, data science, and NLP.",
-        "designation": "Associate Professor",
+        "projectName": "S.S.S.S.S. Ram Singh Bisht Government Polytechnic Dwarahat, Almora",
+        "headline1": "",
+        "headline2": "",
+        "designation": "Student",
         "link": {
           "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
-        },
-        "skills": "NLP, Deep Learning, Academic Research, Python, Data Analytics",
-        "companyName": "Indian Statistical Institute (ISI) Kolkata",
-        "images": []
-      },
-      {
-        "timeline": "2016 – 2019",
-        "projectName": "Blockchain for Secure Digital Academic Records",
-        "headline1": "Researched blockchain applications for secure and tamper-proof academic credentials.",
-        "headline2": "Supervised undergraduate research projects on decentralized security systems.",
-        "designation": "Assistant Professor",
-        "link": {
-          "linkText": "",
           "linkUrl": ""
         },
-        "skills": "Blockchain, Cybersecurity, Cryptography, Smart Contracts",
-        "companyName": "Delhi Technological University (DTU)",
+        "skills": "Python, Data Warehousing, C#, C++, Android Application Development",
+        "companyName": "",
         "images": []
       }
     ]
@@ -133,14 +119,14 @@
     "displayName": "Qualifications",
     "qualifications": [
       {
-        "timeline": "2015 – 2019",
-        "courseName": "Doctor of Philosophy (Ph.D.) in Computer Science",
-        "instituteName": "Indian Institute of Technology (IIT) Bombay",
-        "specializedIn": "Artificial Intelligence, Machine Learning",
-        "yearPassout": "",
-        "headline1": "Conducted research on deep learning models for Indian language processing.",
-        "headline2": "Published multiple research papers in IEEE, Springer, and Scopus-indexed journals.",
-        "cgpa": "9.8",
+        "timeline": "2019 - 2022",
+        "courseName": "Bachelor of Technology in Computer Science & Engineering",
+        "instituteName": "Graphic Era Hill University",
+        "specializedIn": "Full Stack Web Development",
+        "yearPassout": "2025",
+        "headline1": "",
+        "headline2": "",
+        "cgpa": "7.0",
         "link": {
           "linkText": "",
           "linkUrl": ""
@@ -149,36 +135,20 @@
         "rank": "4"
       },
       {
-        "timeline": "2013 – 2015",
-        "courseName": "Master of Technology (M.Tech.) in Computer Science",
-        "instituteName": "Indian Institute of Science (IISc) Bangalore",
-        "specializedIn": "Software Engineering, Data Science",
+        "timeline": "2019-2022",
+        "courseName": "Diploma in Computer Science & Engineering",
+        "instituteName": "S.S.S.S.S. Ram Singh Bisht Government Polytechnic Dwarahat",
+        "specializedIn": "",
         "yearPassout": "",
-        "headline1": "Focused on large-scale cloud computing solutions for Indian enterprises.",
-        "headline2": "Published a thesis on optimizing AI-driven healthcare solutions.",
-        "cgpa": "9.5",
+        "headline1": "",
+        "headline2": "",
+        "cgpa": "9.0",
         "link": {
           "linkText": "",
           "linkUrl": ""
         },
         "images": [],
         "rank": "5"
-      },
-      {
-        "timeline": "2009 – 2013",
-        "courseName": "Bachelor of Technology (B.Tech.) in Computer Science",
-        "instituteName": "National Institute of Technology (NIT) Trichy",
-        "specializedIn": "Full-Stack Development, Database Management",
-        "yearPassout": "",
-        "headline1": "Developed an online examination system adopted by multiple universities.",
-        "headline2": "Represented India at the ACM ICPC World Finals.",
-        "cgpa": "9.2",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "images": [],
-        "rank": "6"
       }
     ]
   }
